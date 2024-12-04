@@ -13,11 +13,11 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 ## Útlit
 
 ### Þetta er SVG´ið fyrir framhlið
-<img title="a title" alt="Alt text" src="/bordspil_lok_V24.svg">
+<img title="vector" width="200" src="/bordspil_lok_V24.svg">
 
 ## Spilavirkni
 <video src="" width="320" height="240" controls></video>
 
 ## Lóðun
-<img title="lodun" alt="Alt text" src="/solder1.jpg">
-<img title="lodun2" alt="Alt text" src="/solder2.jpg">
+<img title="lodun" width="200" src="/solder1.jpg">
+<img title="lodun2" width="200" src="/solder2.jpg">
