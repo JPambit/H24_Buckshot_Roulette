@@ -12,6 +12,8 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 
 ## Útlit
 
+<img title="a title" alt="Alt text" src="/bordspil_lok_V24.svg">
+
 ## Spilavirkni
 <video src="" width="320" height="240" controls></video>
 
