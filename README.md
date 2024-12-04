@@ -19,3 +19,5 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 <video src="" width="320" height="240" controls></video>
 
 ## Lóðun
+<img title="lodun" alt="Alt text" src="/solder1.jpg">
+<img title="lodun2" alt="Alt text" src="/solder2.jpg">
