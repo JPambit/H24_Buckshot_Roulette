@@ -17,7 +17,8 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 
 ## Spilavirkni
 This is a test video
-[![Watch the video](https://img.youtube.com/vi/YAgJ9XugGBo/maxresdefault.jpg)](https://youtu.be/YAgJ9XugGBo)
+
+[![Video Title](https://img.youtube.com/vi/YAgJ9XugGBo/0.jpg)](https://www.youtube.com/watch?v=YAgJ9XugGBo)
 
 ## Lóðun
 <img title="lodun" width="500" src="/solder1.jpg">
