@@ -12,6 +12,7 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 
 ## Útlit
 
+### Þetta er SVG´ið fyrir framhlið
 <img title="a title" alt="Alt text" src="/bordspil_lok_V24.svg">
 
 ## Spilavirkni
