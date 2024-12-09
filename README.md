@@ -12,6 +12,10 @@ hafi verið LIFANDI eða AUTT og tekur í burtu líf frá viðeigandi spilara ef
 þarf. Ef skotið er sjálfan sig og skotið er AUTT þá fær sá leikmaður að gera aftur.
 Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf sitt
 
+## Kóðinn
+
+[Hér](/code.md)
+
 ## Útlit
 
 ### Þetta er SVG´ið fyrir framhlið
