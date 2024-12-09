@@ -18,9 +18,9 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 
 ## Útlit
 
-### Þetta er mynd af spili
+### Þetta er myndir af spili
 
-<img title="box" width="500" src="">
+<img title="box" width="500" src="/20241209_135620.jpg">
 
 ### Þetta er SVG´ið fyrir framhlið
 <img title="vector" width="500" src="/bordspil_lok_V24.svg">
