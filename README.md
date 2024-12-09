@@ -20,7 +20,9 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 
 ### Þetta er myndir af spili
 
-<img title="box" width="500" src="/20241209_135620.jpg">
+<img title="box1" width="500" src="/20241209_135620.jpg">
+<img title="box2" width="500" src="/20241209_135614.jpg">
+
 
 ### Þetta er SVG´ið fyrir framhlið
 <img title="vector" width="500" src="/bordspil_lok_V24.svg">
@@ -41,3 +43,4 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 <img title="inni" width="500" src="/inni.jpg">
 <img title="inni2" width="500" src="/inni2.jpg">
 <img title="inni3" width="500" src="/inni3.jpg">
+<img title="inni4" width="500" src="/20241209_135029.jpg">
