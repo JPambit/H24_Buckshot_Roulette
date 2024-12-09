@@ -2,6 +2,8 @@
 
 ## Um Leikin
 
+### Höfundar: Andri, Krzysztof og Óðinn
+
 Þegar leikur byrjar sínir ljósið í miðjuni magn af LIFANDI skotum(Rautt) og
 AUÐUM skotum(Grænt). Ljósið í miðjuni gefur svo til kinna hver er leikmaður
 eitt og sínir svo hver á að gera. Hver leikmaður ákveður svo hvort hann vilji skjótta
