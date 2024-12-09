@@ -1,5 +1,5 @@
 # Kóði 
-'''python
+```python
 from random import randint, randrange
 from time import sleep_ms
 from machine import Pin, PWM
@@ -329,4 +329,4 @@ while True:
             gameOn = False
             p1Lif = 5
             p2Lif = 5
-"""
+```
