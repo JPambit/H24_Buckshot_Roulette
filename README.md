@@ -23,6 +23,7 @@ This is a test video
 ## Lóðun
 <img title="lodun" width="500" src="/solder1.jpg">
 <img title="lodun2" width="500" src="/solder2.jpg">
+<img title="lodun3" width="500" src="/solder3.jpg">
 
 ## Inni kassa
 <img title="inni" width="500" src="/inni.jpg">
