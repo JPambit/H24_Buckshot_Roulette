@@ -39,7 +39,7 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 <img title="lodun5" width="500" src="/solder5.jpg">
 <img title="lodun6" width="500" src="/solder6.jpg">
 
-## Inni kassa
+## Inni á kassa
 <img title="inni4" width="500" src="/20241209_135029.jpg">
 <img title="inni" width="500" src="/inni.jpg">
 <img title="inni2" width="500" src="/inni2.jpg">
