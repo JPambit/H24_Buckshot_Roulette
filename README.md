@@ -24,7 +24,7 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 ## Spilavirkni
 This is a test video
 
-[![Video Title](https://img.youtube.com/shorts/86vlAf9iiqM/0.jpg)](https://www.youtube.com/shorts/86vlAf9iiqM)
+[![Video Title]](https://www.youtube.com/shorts/86vlAf9iiqM)
 
 ## Lóðun
 <img title="lodun" width="500" src="/solder1.jpg">
@@ -32,6 +32,7 @@ This is a test video
 <img title="lodun3" width="500" src="/solder3.jpg">
 <img title="lodun4" width="500" src="/solder4.jpg">
 <img title="lodun5" width="500" src="/solder5.jpg">
+<img title="lodun6" width="500" src="/solder6.jpg">
 
 ## Inni kassa
 <img title="inni" width="500" src="/inni.jpg">
