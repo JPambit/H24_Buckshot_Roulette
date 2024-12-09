@@ -22,9 +22,8 @@ Svona gengur svo leikurinn koll af kolli þangað til einn sé búinn með líf 
 <img title="vector" width="500" src="/bordspil_lok_V24.svg">
 
 ## Spilavirkni
-This is a test video
 
-[Video Title](https://www.youtube.com/shorts/86vlAf9iiqM)
+[Video](https://www.youtube.com/shorts/86vlAf9iiqM)
 
 ## Lóðun
 <img title="lodun" width="500" src="/solder1.jpg">
