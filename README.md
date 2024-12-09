@@ -26,8 +26,6 @@ This is a test video
 <img title="lodun3" width="500" src="/solder3.jpg">
 <img title="lodun4" width="500" src="/solder4.jpg">
 <img title="lodun5" width="500" src="/solder5.jpg">
-<img title="lodun6" width="500" src="/solder6.jpg">
-<img title="lodun7" width="500" src="/solder7.jpg">
 
 ## Inni kassa
 <img title="inni" width="500" src="/inni.jpg">
